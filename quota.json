@@ -1,11 +1,11 @@
 {
   "plan": "Free",
-  "weekly_used_pct": 23.0,
-  "weekly_remaining_pct": 77.0,
+  "weekly_used_pct": 27.0,
+  "weekly_remaining_pct": 73.0,
   "reset_at": "2026-11-23T06:05:00+07:00",
   "reset_display": "Nov 23 at 6:05 AM WIB",
   "additional_used_pct": 1.0,
   "additional_left": "2.9B tokens",
-  "updated_at": "2026-11-19T14:04:29.668426+07:00",
-  "source_status_raw": "The user does not have a subscription.\nUsage: 23% of free weekly limit.\nWeekly limit resets Nov 23 at 6:05 AM WIB\nAdditional tokens: 1% used (2.9B tokens left)"
+  "updated_at": "2026-11-19T17:04:31.963119+07:00",
+  "source_status_raw": "The user does not have a subscription.\nUsage: 27% of free weekly limit.\nWeekly limit resets Nov 23 at 6:05 AM WIB\nAdditional tokens: 1% used (2.9B tokens left)"
 }
